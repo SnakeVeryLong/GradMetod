@@ -1,0 +1,15 @@
+D:\repos\GradMetod\GradMetod\bin\Debug\netcoreapp3.1\GradMetod.exe
+D:\repos\GradMetod\GradMetod\bin\Debug\netcoreapp3.1\GradMetod.deps.json
+D:\repos\GradMetod\GradMetod\bin\Debug\netcoreapp3.1\GradMetod.runtimeconfig.json
+D:\repos\GradMetod\GradMetod\bin\Debug\netcoreapp3.1\GradMetod.runtimeconfig.dev.json
+D:\repos\GradMetod\GradMetod\bin\Debug\netcoreapp3.1\GradMetod.dll
+D:\repos\GradMetod\GradMetod\bin\Debug\netcoreapp3.1\GradMetod.pdb
+D:\repos\GradMetod\GradMetod\obj\Debug\netcoreapp3.1\GradMetod.Form1.resources
+D:\repos\GradMetod\GradMetod\obj\Debug\netcoreapp3.1\GradMetod.csproj.GenerateResource.cache
+D:\repos\GradMetod\GradMetod\obj\Debug\netcoreapp3.1\GradMetod.AssemblyInfoInputs.cache
+D:\repos\GradMetod\GradMetod\obj\Debug\netcoreapp3.1\GradMetod.AssemblyInfo.cs
+D:\repos\GradMetod\GradMetod\obj\Debug\netcoreapp3.1\GradMetod.csproj.CoreCompileInputs.cache
+D:\repos\GradMetod\GradMetod\obj\Debug\netcoreapp3.1\GradMetod.dll
+D:\repos\GradMetod\GradMetod\obj\Debug\netcoreapp3.1\GradMetod.pdb
+D:\repos\GradMetod\GradMetod\obj\Debug\netcoreapp3.1\GradMetod.genruntimeconfig.cache
+D:\repos\GradMetod\GradMetod\obj\Debug\netcoreapp3.1\GradMetod.csproj.AssemblyReference.cache
